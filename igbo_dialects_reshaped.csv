@@ -1,0 +1,950 @@
+S/N,ENGLISH,dialect,word
+1,Head,OWERRI,iʃí
+2,Eye,OWERRI,ãjã
+3,Ear,OWERRI,ntì
+4,Nose,OWERRI,ímí
+5,Mouth,OWERRI,ɔ̃́nu
+6,Teeth,OWERRI,éze
+7,Tongue,OWERRI,í:ré
+8,Lip,OWERRI,ígbùrùgbɔ́:nu
+9,Neck,OWERRI,ó:lú
+10,Hand,OWERRI,á :ká
+11,Finger,OWERRI,ìkpíʃìrákà
+12,Chest,OWERRI,ó:bì
+13,Breast,OWERRI,á:rá
+14,Stomach,OWERRI,á:fɔ́
+15,Lap,OWERRI,ǹkpátú:kú
+16,Leg,OWERRI,ú:kú
+17,Toe,OWERRI,ìkpíʃìru:kù
+18,Penis,OWERRI,ámù
+19,Vagina,OWERRI,ɔ́tũ̀
+20,Liver,OWERRI,ìmè:ʤì
+21,Elbow,OWERRI,úkwùáká or ntúákà
+22,Shoulder,OWERRI,ńgùáká or íʃìmfù
+23,Urine,OWERRI,mànjiri
+24,Faeces,OWERRI,ǹʃí
+25,One,OWERRI,wó:tù
+26,Two,OWERRI,àbúɔ́
+27,Three,OWERRI,à:tɔ́
+28,Four,OWERRI,à:ná
+29,Five,OWERRI,Ìsé
+30,Six,OWERRI,ìʃí
+31,Seven,OWERRI,à:sá
+32,Eight,OWERRI,asátɔ
+33,Nine,OWERRI,Ìtólu
+34,Ten,OWERRI,Ìrí
+35,Fifteen,OWERRI,irínì:sé
+36,Nineteen,OWERRI,ìrí nì tòlu
+37,Twenty,OWERRI,irí à:búɔ́ or ógu
+38,Twenty-five,OWERRI,ìrí à:búɔ̀ nísé
+39,Thirty,OWERRI,ìrí àtɔ́
+40,Thirty-five,OWERRI,ìríà:tɔ̀ nìsé
+41,Forty,OWERRI,ìríà:ná
+42,Forty-five,OWERRI,ìríànánì:sé
+43,Fifty,OWERRI,ìrínì:sé
+44,Fifty-five,OWERRI,ìrí:sènì:sé
+45,Hundred,OWERRI,úkú ìrì
+46,Two-hundred,OWERRI,ìrí ìrí nàbúɔ́
+47,Three-hundred,OWERRI,ìrí ìrí nátɔ́
+48,Four-hundred,OWERRI,ìrí ìrínàná
+49,Five-hundred,OWERRI,ìrí ìríní:sé
+50,One-thousand,OWERRI,ótùkpúkú
+51,Sleep,OWERRI,ñ́:rá
+52,Sleeping,OWERRI,ín:ra
+53,Eat,OWERRI,rèǐ
+54,Eating,OWERRI,rè:rǐ
+55,Stand,OWERRI,gùzóró or bìlíaɔ́tɔ́
+56,Standing,OWERRI,gùzóró or kùlíélu
+57,Sit,OWERRI,dú
+58,Sitting,OWERRI,dú:alà
+59,Go,OWERRI,ʤɛ̃̀má
+60,Come,OWERRI,bj̀á
+61,Walk,OWERRI,íʤè
+62,Walking,OWERRI,iʤì iʤè
+63,Jump,OWERRI,wɔ́
+64,Jumping,OWERRI,wɔ̀má
+65,Climb,OWERRI,tě:lu
+66,Climbing,OWERRI,tèwé:lu
+67,Follow,OWERRI,sòró
+68,Shout,OWERRI,ítiŋmkpu or mgbáuku
+69,Love,OWERRI,ífùná:já
+70,Own,OWERRI,ǹkɛ́mí
+71,Break,OWERRI,ígbàʤìrì
+72,Broke,OWERRI,íhíe kùárà
+73,Hate,OWERRI,íkpúàsì
+74,Run,OWERRI,ɔ́sɔ̀
+75,Running,OWERRI,ígbàɔ́sɔ́
+76,Cook,OWERRI,ʃǐ
+77,Cooking,OWERRI,íʃì
+78,Burn,OWERRI,Íre
+79,Fall,OWERRI,da:̌
+80,Dance,OWERRI,ìgbě:bú
+81,Sing,OWERRI,ùkwé or ígwávù
+82,Laugh,OWERRI,ɔ́ʧì
+83,Cry,OWERRI,ákuá
+84,Sell,OWERRI,íri ihie
+85,Buy,OWERRI,ízu ihie or ízugihie
+86,Cut,OWERRI,èbè
+87,To drink,OWERRI,Íhũ
+88,To want,OWERRI,íʧɔ ihie
+89,Kneel,OWERRI,èkpére nà:là or sékpùrá:là
+90,Water,OWERRI,ímírì
+91,Rain,OWERRI,mírí ozúzú
+92,Thunder,OWERRI,ɛ́gbɛ̀ elúgue
+93,River,OWERRI,Íji
+94,Stream,OWERRI,òʃìmìrì
+95,Sun,OWERRI,ájã́hũ̀
+96,Moon,OWERRI,ɔ̃́wɔ̃́
+97,Star,OWERRI,kpákpàndò
+98,Plant,OWERRI,ósísí
+99,Cold,OWERRI,ò:jí
+100,Heat,OWERRI,ìkpɛ́mɔ́kó
+101,Bush,OWERRI,ɔ́híá
+102,Forest,OWERRI,úkɔ́hía
+103,Mud,OWERRI,ápìtì or ùrɔ̀
+104,Fruit,OWERRI,ńkpúrósìsì
+105,Fire,OWERRI,ɔ́kú
+106,Smoke,OWERRI,àhúr ɔ́:kú
+107,I,OWERRI,mí
+108,You,OWERRI,ǹgí
+109,We,OWERRI,àhí
+110,Us,OWERRI,òsógbúahi
+111,They,OWERRI,há
+112,He,OWERRI,já
+113,She,OWERRI,já
+114,Many,OWERRI,íhíere àhà or árì áhà
+115,Small,OWERRI,ńtàkéré or ǹkpɛ́kɛ́lɛ́
+116,Big,OWERRI,unúku
+117,Fat,OWERRI,í:vù
+118,Thin,OWERRI,íhíe tara:tà
+119,Food,OWERRI,írĩ́
+120,Boy,OWERRI,ńkɔrɔbìà
+121,Girl,OWERRI,ńwàbúɔ́bìà
+122,Man,OWERRI,ńwóke
+123,Woman,OWERRI,ńwáhi
+1,Head,UDI,ísí
+2,Eye,UDI,ɛ́jã́
+3,Ear,UDI,ntì
+4,Nose,UDI,imi
+5,Mouth,UDI,ɔ́na
+6,Teeth,UDI,ɛ́zɛ
+7,Tongue,UDI,é:le
+8,Lip,UDI,ígbebìrɔ́:nu
+9,Neck,UDI,o:nu
+10,Hand,UDI,ɛ́:ká
+11,Finger,UDI,ìkpúrɛ́:ká
+12,Chest,UDI,ó:bì
+13,Breast,UDI,ɛ́:lá
+14,Stomach,UDI,á:fɔ́
+15,Lap,UDI,àlà
+16,Leg,UDI,ó:kú
+17,Toe,UDI,ńkpóló:kpó
+18,Penis,UDI,ú:dì
+19,Vagina,UDI,òtènè
+20,Liver,UDI,úmé:ʤu
+21,Elbow,UDI,ɔ́dɛ́:kà
+22,Shoulder,UDI,òkonvu
+23,Urine,UDI,mámèré
+24,Faeces,UDI,ìnʃí
+25,One,UDI,ú:fù
+26,Two,UDI,ébɔ̀:
+27,Three,UDI,è:tɔ́
+28,Four,UDI,e:nɔ́
+29,Five,UDI,isí
+30,Six,UDI,ìʃi
+31,Seven,UDI,è:sá
+32,Eight,UDI,esátɔ
+33,Nine,UDI,ìtéréte
+34,Ten,UDI,ìrí
+35,Fifteen,UDI,ìrínǐ:sé
+36,Nineteen,UDI,ìrínì:térété
+37,Twenty,UDI,ìrí abɔ́
+38,Twenty-five,UDI,ìrí íbɔ́ ní:sé
+39,Thirty,UDI,ìrí: ítɔ́
+40,Thirty-five,UDI,ìrí ítɔ́ ní:sé
+41,Forty,UDI,ìrí: íṅɔ̀
+42,Forty-five,UDI,ìrí ínɔ̀ ní:sé
+43,Fifty,UDI,ìrí ìsé
+44,Fifty-five,UDI,ìrí:sé nì:sé
+45,Hundred,UDI,ótúna:rè
+46,Two-hundred,UDI,nàrè:íbɔ̀:
+47,Three-hundred,UDI,nàrè:ìtɔ́
+48,Four-hundred,UDI,nàrè:ìnɔ́
+49,Five-hundred,UDI,nàrè:ní:sé
+50,One-thousand,UDI,ótùkpúkú
+51,Sleep,UDI,ó:lá
+52,Sleeping,UDI,ívò:la
+53,Eat,UDI,íri
+54,Eating,UDI,íriri
+55,Stand,UDI,é:ku
+56,Standing,UDI,é:ku ɔtɔ
+57,Sit,UDI,ńtù:kù
+58,Sitting,UDI,ńtùkùànì
+59,Go,UDI,ʤèwé
+60,Come,UDI,bj̀á
+61,Walk,UDI,ìʤɛ
+62,Walking,UDI,ígà íʤɛ̀
+63,Jump,UDI,ńʧájí
+64,Jumping,UDI,́́ńʧáníénu
+65,Climb,UDI,íri
+66,Climbing,UDI,íri é:lo
+67,Follow,UDI,ísò
+68,Shout,UDI,ítiŋmkpu
+69,Love,UDI,ífùná:já
+70,Own,UDI,ŋm̀kɛ́mú
+71,Break,UDI,ŋḿgbá:ʤí
+72,Broke,UDI,ŋḿgbà:ʤí
+73,Hate,UDI,ékpà:íʃì
+74,Run,UDI,ɔ́sɔ́
+75,Running,UDI,é:gbuɔsɔ́
+76,Cook,UDI,ísi
+77,Cooking,UDI,ísine
+78,Burn,UDI,írɔ:ko
+79,Fall,UDI,é:dà
+80,Dance,UDI,ígbuegu
+81,Sing,UDI,íguegu
+82,Laugh,UDI,ɔ́ʧì
+83,Cry,UDI,ákuá
+84,Sell,UDI,í:re
+85,Buy,UDI,gòté
+86,Cut,UDI,é:bɛ̀
+87,To drink,UDI,é:nu
+88,To want,UDI,ʧɔ̀lò
+89,Kneel,UDI,sékpùrú
+90,Water,UDI,ímírí
+91,Rain,UDI,ímírí òzùzò
+92,Thunder,UDI,ɛ́gbɛ́ ígwe
+93,River,UDI,ímírí òkùkuò
+94,Stream,UDI,ímírí ɔgbanuòkúte
+95,Sun,UDI,ájãwu
+96,Moon,UDI,ɔ̃wã
+97,Star,UDI,kpákpàndò
+98,Plant,UDI,oʃiʃi
+99,Cold,UDI,ó:ji
+100,Heat,UDI,ekpomúkṹ
+101,Bush,UDI,ɔ́fiá or è:há:nù
+102,Forest,UDI,á:gì
+103,Mud,UDI,ùrɔ̀
+104,Fruit,UDI,ńkpúrú ó:ʃiʃi
+105,Fire,UDI,ɔ́:kú
+106,Smoke,UDI,ámúlò:ɔkũ
+107,I,UDI,mú
+108,You,UDI,gí
+109,We,UDI,àjí
+110,Us,UDI,àjí
+111,They,UDI,há
+112,He,UDI,nwóke
+113,She,UDI,ńwàjĩ̀
+114,Many,UDI,ʃìnùmé
+115,Small,UDI,ńwàntà
+116,Big,UDI,ʃì̪nùné
+117,Fat,UDI,ivù
+118,Thin,UDI,kpalakpàla
+119,Food,UDI,ihóriri
+120,Boy,UDI,ńwàtá nwó:ke
+121,Girl,UDI,ńwàtáwahĩ̀
+122,Man,UDI,nwóke
+123,Woman,UDI,ńwàhĩ̀
+1,Head,IKWERE,wí:ʃí
+2,Eye,IKWERE,ã́jã́
+3,Ear,IKWERE,ńsĩ̀
+4,Nose,IKWERE,ímí
+5,Mouth,IKWERE,ɔ́:nú
+6,Teeth,IKWERE,ísíé
+7,Tongue,IKWERE,njújó
+8,Lip,IKWERE,gbélɔ́:nú
+9,Neck,IKWERE,ílí
+10,Hand,IKWERE,háká
+11,Finger,IKWERE,kpáká:ká
+12,Chest,IKWERE,nkpɔ́:má
+13,Breast,IKWERE,rɛ́má
+14,Stomach,IKWERE,róhɔ́
+15,Lap,IKWERE,m̀pámkpúɔ̀ʧí
+16,Leg,IKWERE,ɔ́:ʧí
+17,Toe,IKWERE,ŋm̀kpɔ́:ʧí́
+18,Penis,IKWERE,ɛ́:mà
+19,Vagina,IKWERE,ɛ̀:hṹ
+20,Liver,IKWERE,ǹgbéíʒí
+21,Elbow,IKWERE,m̀pírá:ká
+22,Shoulder,IKWERE,ùbá:ka or àkáŋku
+23,Urine,IKWERE,mɔ̃́́jó
+24,Faeces,IKWERE,ńsĩ́
+25,One,IKWERE,ó:tú
+26,Two,IKWERE,ɛ̀bɔ̀
+27,Three,IKWERE,ɛ̀tɔ́
+28,Four,IKWERE,ɛ̀ná
+29,Five,IKWERE,ìsí
+30,Six,IKWERE,ìsúnù
+31,Seven,IKWERE,ɛ̀sáwɔ̀
+32,Eight,IKWERE,ɛ̀sátɔ́
+33,Nine,IKWERE,tó:lú
+34,Ten,IKWERE,rí
+35,Fifteen,IKWERE,rìní:sí
+36,Nineteen,IKWERE,rìnútó:lú
+37,Twenty,IKWERE,ɔ̀gṹ
+38,Twenty-five,IKWERE,ɔgũní:sí
+39,Thirty,IKWERE,ɔgũní:rí
+40,Thirty-five,IKWERE,ɔgũnù:rí́ ní:si
+41,Forty,IKWERE,ɔgũlà:rù
+42,Forty-five,IKWERE,ɔgũla:runí:sé
+43,Fifty,IKWERE,ɔgũlà:rùnùírí
+44,Fifty-five,IKWERE,ɔgũlà:rùnùíriní:sí
+45,Hundred,IKWERE,ɔgũ ó:tù
+46,Two-hundred,IKWERE,ɔgũ̀ là:rɔ̀
+47,Three-hundred,IKWERE,ɔgũ ɛ́tɔ́
+48,Four-hundred,IKWERE,ɔgũɛ́ná
+49,Five-hundred,IKWERE,ɔgũ ísí
+50,One-thousand,IKWERE,ɔgũ pàm
+51,Sleep,IKWERE,ajárá
+52,Sleeping,IKWERE,ajárá
+53,Eat,IKWERE,rí
+54,Eating,IKWERE,ríwírí
+55,Stand,IKWERE,kúmizɔ́ or gùzó:ró
+56,Standing,IKWERE,gùzó:ró
+57,Sit,IKWERE,dà:zú
+58,Sitting,IKWERE,dàzúɛ́:lè
+59,Go,IKWERE,là:bá
+60,Come,IKWERE,bìá
+61,Walk,IKWERE,ízĩ̀
+62,Walking,IKWERE,ízĩ̀
+63,Jump,IKWERE,wò:
+64,Jumping,IKWERE,wo:bá
+65,Climb,IKWERE,pì:
+66,Climbing,IKWERE,pìbá
+67,Follow,IKWERE,so:nrú
+68,Shout,IKWERE,okókòbà
+69,Love,IKWERE,ihṹnà:já
+70,Own,IKWERE,ké:nú
+71,Break,IKWERE,gbàʤímí
+72,Broke,IKWERE,ɔ̀:gbáʤílé
+73,Hate,IKWERE,ɔgú
+74,Run,IKWERE,ɛsɔ́
+75,Running,IKWERE,ɛsɔ́
+76,Cook,IKWERE,ʃí:
+77,Cooking,IKWERE,ʃibá
+78,Burn,IKWERE,kpɔ́
+79,Fall,IKWERE,rí:dá
+80,Dance,IKWERE,è:rì
+81,Sing,IKWERE,gṹ
+82,Laugh,IKWERE,rũmú
+83,Cry,IKWERE,ɛ̀kwá
+84,Sell,IKWERE,rì:
+85,Buy,IKWERE,zú
+86,Cut,IKWERE,ʧàbílíe
+87,To drink,IKWERE,ńʧùrɔ̀ŋɔwɔ́
+88,To want,IKWERE,ńʧɔ̃̀
+89,Kneel,IKWERE,ǹpìrɔ́ʧí
+90,Water,IKWERE,míní
+91,Rain,IKWERE,míníòzùzò
+92,Thunder,IKWERE,àmádíɔhà
+93,River,IKWERE,òsìminì
+94,Stream,IKWERE,osìmìnì
+95,Sun,IKWERE,ɛ̀jã́m
+96,Moon,IKWERE,ɛ̃̀wã́
+97,Star,IKWERE,wénérùɛ̃wã́
+98,Plant,IKWERE,àʧàrà
+99,Cold,IKWERE,í:ji
+100,Heat,IKWERE,rówárá
+101,Bush,IKWERE,ɔ̀híá
+102,Forest,IKWERE,òtɔ́híá
+103,Mud,IKWERE,ɔ̀rɔ̀t̀ɔ̀
+104,Fruit,IKWERE,ŋmkpurúíʃíʃí
+105,Fire,IKWERE,bíɛ́kṹ
+106,Smoke,IKWERE,rũrù
+107,I,IKWERE,máwa
+108,You,IKWERE,ʤúwá
+109,We,IKWERE,aíwá
+110,Us,IKWERE,aíwá
+111,They,IKWERE,báwá
+112,He,IKWERE,njérùkà
+113,She,IKWERE,ńjé:rìhà
+114,Many,IKWERE,gbúgbùru
+115,Small,IKWERE,mátì:há
+116,Big,IKWERE,o:kpótókpó
+117,Fat,IKWERE,íbù
+118,Thin,IKWERE,tarahí
+119,Food,IKWERE,wírí
+120,Boy,IKWERE,nwɔ́rùkà
+121,Girl,IKWERE,nwòrĩ́iã̀
+122,Man,IKWERE,díŋmkpàjérùkà
+123,Woman,IKWERE,díŋmkpàjèrĩ́hã́
+1,Head,NSUKA,íʃí
+2,Eye,NSUKA,ɛ̃́já
+3,Ear,NSUKA,ńtì
+4,Nose,NSUKA,ímí
+5,Mouth,NSUKA,ɔ́nú
+6,Teeth,NSUKA,ízé
+7,Tongue,NSUKA,í:ré
+8,Lip,NSUKA,égbègbɔ́:nù
+9,Neck,NSUKA,ó:nú
+10,Hand,NSUKA,ɛ́:ká
+11,Finger,NSUKA,ńkpìrɛka
+12,Chest,NSUKA,óbù
+13,Breast,NSUKA,ɛ́:rá
+14,Stomach,NSUKA,έhᴐ̃̀
+15,Lap,NSUKA,àpàkiró:ku
+16,Leg,NSUKA,ókú
+17,Toe,NSUKA,ézò:ku
+18,Penis,NSUKA,ámù
+19,Vagina,NSUKA,átùm
+20,Liver,NSUKA,ìméʤù
+21,Elbow,NSUKA,íkpùrέká
+22,Shoulder,NSUKA,àpàkìrέ:ka
+23,Urine,NSUKA,wã́mi
+24,Faeces,NSUKA,ĩ̀ʃĩ́
+25,One,NSUKA,o:fú
+26,Two,NSUKA,ɛbɔ
+27,Three,NSUKA,ɛ̀tɔ́
+28,Four,NSUKA,ɛ̀ná
+29,Five,NSUKA,isé
+30,Six,NSUKA,ìʃí
+31,Seven,NSUKA,ɛ̀sâ
+32,Eight,NSUKA,ɛsátᴐ̀
+33,Nine,NSUKA,tégná
+34,Ten,NSUKA,irí
+35,Fifteen,NSUKA,iríni ìsé
+36,Nineteen,NSUKA,irí nìtégná
+37,Twenty,NSUKA,óhú
+38,Twenty-five,NSUKA,óhúnìsé
+39,Thirty,NSUKA,èrinátɔ
+40,Thirty-five,NSUKA,èrínátɔnì:sé
+41,Forty,NSUKA,èriná:nɔ̀
+42,Forty-five,NSUKA,èríná:nɔ̀ni:sé
+43,Fifty,NSUKA,èríná:se
+44,Fifty-five,NSUKA,èríná:séní:sé
+45,Hundred,NSUKA,ná:ré
+46,Two-hundred,NSUKA,ná:réɛbɔ
+47,Three-hundred,NSUKA,nàrè:tɔ́
+48,Four-hundred,NSUKA,nàré:nɔ́:
+49,Five-hundred,NSUKA,náréisé
+50,One-thousand,NSUKA,púkú
+51,Sleep,NSUKA,ú:rɔ́
+52,Sleeping,NSUKA,íkurɔ
+53,Eat,NSUKA,òrírí
+54,Eating,NSUKA,íriri
+55,Stand,NSUKA,íkuɔtɔ
+56,Standing,NSUKA,ɔ́tɔ́
+57,Sit,NSUKA,túkùrúanù
+58,Sitting,NSUKA,ítúkúanù
+59,Go,NSUKA,ʤèdídé
+60,Come,NSUKA,bìá
+61,Walk,NSUKA,íʤì
+62,Walking,NSUKA,íʤì íʤɛ̀
+63,Jump,NSUKA,mḿájé:ní
+64,Jumping,NSUKA,ímàjé:ni
+65,Climb,NSUKA,ĩ́jĩ
+66,Climbing,NSUKA,ojĩ́jĩ́
+67,Follow,NSUKA,isò
+68,Shout,NSUKA,ńkpɔ́tí
+69,Love,NSUKA,ífùná:já
+70,Own,NSUKA,ńwe
+71,Break,NSUKA,ńgbàʤí
+72,Broke,NSUKA,gbàʤìrì
+73,Hate,NSUKA,íkpaiʃí
+74,Run,NSUKA,ᴐ́sɔ́
+75,Running,NSUKA,ígbɔ̀:sɔ́
+76,Cook,NSUKA,íʃì
+77,Cooking,NSUKA,íʃìri
+78,Burn,NSUKA,ígbɔ̀:kã̀
+79,Fall,NSUKA,έdá
+80,Dance,NSUKA,ígbě:bú
+81,Sing,NSUKA,ígè:bú
+82,Laugh,NSUKA,ɔ́ʧi
+83,Cry,NSUKA,έ:kwá
+84,Sell,NSUKA,í:ré
+85,Buy,NSUKA,ígòté
+86,Cut,NSUKA,íbè
+87,To drink,NSUKA,ŋ́á
+88,To want,NSUKA,ʧɔ́r
+89,Kneel,NSUKA,ìsékpu
+90,Water,NSUKA,míji
+91,Rain,NSUKA,íjíòzúzó
+92,Thunder,NSUKA,ébí ìgwe
+93,River,NSUKA,έjã́mì
+94,Stream,NSUKA,íje
+95,Sun,NSUKA,áwũ̀
+96,Moon,NSUKA,ɔ́wã́
+97,Star,NSUKA,kpákpáǹdo
+98,Plant,NSUKA,oʃiʃí
+99,Cold,NSUKA,ó:jí
+100,Heat,NSUKA,ɛ̀ʃíɔ́ku
+101,Bush,NSUKA,ɛ:ko
+102,Forest,NSUKA,ɛkórikó
+103,Mud,NSUKA,ɛʤaᴐ̀kpà
+104,Fruit,NSUKA,ìkpùrùʃínà
+105,Fire,NSUKA,ᴐ́kú
+106,Smoke,NSUKA,έwórù
+107,I,NSUKA,múɔ́
+108,You,NSUKA,gé
+109,We,NSUKA,ãjĩ́
+110,Us,NSUKA,ajĩ́
+111,They,NSUKA,hέ
+112,He,NSUKA,já
+113,She,NSUKA,já
+114,Many,NSUKA,ʃìríkí
+115,Small,NSUKA,márèwᴐ́
+116,Big,NSUKA,ìgwè
+117,Fat,NSUKA,ɔgbùgbà
+118,Thin,NSUKA,ńtĩ́tí
+119,Food,NSUKA,ĩ́rí
+120,Boy,NSUKA,ńwóke
+121,Girl,NSUKA,ńwã̀jĩ́
+122,Man,NSUKA,díŋmkpà
+123,Woman,NSUKA,nìwaji
+1,Head,EKPEYE,íʃi
+2,Eye,EKPEYE,éplení
+3,Ear,EKPEYE,etè
+4,Nose,EKPEYE,émí
+5,Mouth,EKPEYE,únú
+6,Teeth,EKPEYE,íʒe
+7,Tongue,EKPEYE,ído
+8,Lip,EKPEYE,ù̀nùʒù
+9,Neck,EKPEYE,ɛ́kédì
+10,Hand,EKPEYE,ɛ́ká
+11,Finger,EKPEYE,ùbɔ̀ ɛ́ká
+12,Chest,EKPEYE,ùnũ̀kùmá
+13,Breast,EKPEYE,émà
+14,Stomach,EKPEYE,íwɔ́
+15,Lap,EKPEYE,ɔ̀gbó
+16,Leg,EKPEYE,úkwú
+17,Toe,EKPEYE,ùbɔ̀ úkwú
+18,Penis,EKPEYE,ékpòdí
+19,Vagina,EKPEYE,óʃi
+20,Liver,EKPEYE,imèlìʧi
+21,Elbow,EKPEYE,ɛ́wè:kà
+22,Shoulder,EKPEYE,ɛ́wá
+23,Urine,EKPEYE,uʧɔ̀mí
+24,Faeces,EKPEYE,íʃí
+25,One,EKPEYE,wɔ̃́nè
+26,Two,EKPEYE,gbàbɔ́
+27,Three,EKPEYE,gbàtɔ́
+28,Four,EKPEYE,gbènɔ́
+29,Five,EKPEYE,gbèsé
+30,Six,EKPEYE,gbèsú
+31,Seven,EKPEYE,gbé:sábɔ̀
+32,Eight,EKPEYE,gbésatɔ̀
+33,Nine,EKPEYE,gbésanɔ̀
+34,Ten,EKPEYE,dí
+35,Fifteen,EKPEYE,dí gbèsé
+36,Nineteen,EKPEYE,dí gbésanɔ̀
+37,Twenty,EKPEYE,dí gbébɔ́
+38,Twenty-five,EKPEYE,úgù li gbèsé
+39,Thirty,EKPEYE,úgù li dí
+40,Thirty-five,EKPEYE,úgù li dí gbèsé
+41,Forty,EKPEYE,úgú ebɔ́
+42,Forty-five,EKPEYE,úgú ebɔ́ li gbèsé
+43,Fifty,EKPEYE,úgú ebɔ́ li dí
+44,Fifty-five,EKPEYE,úgú ebɔ́ li dí li gbèsé
+45,Hundred,EKPEYE,úgú esé
+46,Two-hundred,EKPEYE,dí úgújè
+47,Three-hundred,EKPEYE,dí úgújè li úgú esé
+48,Four-hundred,EKPEYE,dí úgújè íbɔ́
+49,Five-hundred,EKPEYE,dí úgújè íbɔ́ li úgú esé
+50,One-thousand,EKPEYE,úgújè í:se
+51,Sleep,EKPEYE,jĩ́́ɛná
+52,Sleeping,EKPEYE,újĩ́ɛná
+53,Eat,EKPEYE,dì gbɛdì
+54,Eating,EKPEYE,údìgbedì
+55,Stand,EKPEYE,ṹ́zó
+56,Standing,EKPEYE,lù ṹ́zó
+57,Sit,EKPEYE,ã́́ʒieʒi
+58,Sitting,EKPEYE,lù ã́́ʒieʒi
+59,Go,EKPEYE,kàdá
+60,Come,EKPEYE,ʤá
+61,Walk,EKPEYE,kàdeíʒe
+62,Walking,EKPEYE,úkàdeíʒe
+63,Jump,EKPEYE,páè páè
+64,Jumping,EKPEYE,úpáèpáè
+65,Climb,EKPEYE,kpɔ́du
+66,Climbing,EKPEYE,úkpɔ́du
+67,Follow,EKPEYE,ʧiʒadí
+68,Shout,EKPEYE,íkpu
+69,Love,EKPEYE,úguʃí́
+70,Own,EKPEYE,á:me
+71,Break,EKPEYE,gbáʤílì
+72,Broke,EKPEYE,a:ʤílimì
+73,Hate,EKPEYE,ɔ́súòzu
+74,Run,EKPEYE,ésɔ̀
+75,Running,EKPEYE,gbèsé ésɔ
+76,Cook,EKPEYE,ite:
+77,Cooking,EKPEYE,úʃite:
+78,Burn,EKPEYE,ùdúkpɔlí
+79,Fall,EKPEYE,édà
+80,Dance,EKPEYE,ɛ:líè
+81,Sing,EKPEYE,gùʃi
+82,Laugh,EKPEYE,ũmúnù
+83,Cry,EKPEYE,íkwá
+84,Sell,EKPEYE,dédijè
+85,Buy,EKPEYE,gó:
+86,Cut,EKPEYE,kébɛ̀
+87,To drink,EKPEYE,ṹ́wɔ́ nwú
+88,To want,EKPEYE,úbaga
+89,Kneel,EKPEYE,úkpúnúku
+90,Water,EKPEYE,nmíni
+91,Rain,EKPEYE,éde míni
+92,Thunder,EKPEYE,ámá:
+93,River,EKPEYE,ólímíni
+94,Stream,EKPEYE,ùgbùlù
+95,Sun,EKPEYE,elã́́wú
+96,Moon,EKPEYE,ádígwì
+97,Star,EKPEYE,ɔkpòlù
+98,Plant,EKPEYE,úkpáʃi:j
+99,Cold,EKPEYE,ùkàjí
+100,Heat,EKPEYE,èkétéhí
+101,Bush,EKPEYE,újá
+102,Forest,EKPEYE,úká:já
+103,Mud,EKPEYE,ólòtɔ̀
+104,Fruit,EKPEYE,ágú:ʃi
+105,Fire,EKPEYE,étéhì
+106,Smoke,EKPEYE,imúɛ̀ʧi
+107,I,EKPEYE,múɛ̀
+108,You,EKPEYE,jíò
+109,We,EKPEYE,jéì
+110,Us,EKPEYE,jě:
+111,They,EKPEYE,emini
+112,He,EKPEYE,jǎ
+113,She,EKPEYE,jǎ
+114,Many,EKPEYE,Ùgbò
+115,Small,EKPEYE,ńʧúku
+116,Big,EKPEYE,é:kè
+117,Fat,EKPEYE,Òbekì
+118,Thin,EKPEYE,̀ɔ̀rɔ̀pɔ̀
+119,Food,EKPEYE,bídi
+120,Boy,EKPEYE,ùgbò:ʤì
+121,Girl,EKPEYE,ùbɛ̀:dɛ̀
+122,Man,EKPEYE,o:kómɔ
+123,Woman,EKPEYE,inɔ́mi
+1,Head,NGWA,ísí
+2,Eye,NGWA,ã́jã́
+3,Ear,NGWA,ńtì
+4,Nose,NGWA,ímí
+5,Mouth,NGWA,ɔ́nú
+6,Teeth,NGWA,ézé
+7,Tongue,NGWA,í:ré
+8,Lip,NGWA,Ìgbèrìgbɔ́:nu
+9,Neck,NGWA,ó:lú
+10,Hand,NGWA,á :ká
+11,Finger,NGWA,Ìkpísìlá:kà
+12,Chest,NGWA,ó:bì
+13,Breast,NGWA,á:rá
+14,Stomach,NGWA,á:fɔ́
+15,Lap,NGWA,àpàtù:kú
+16,Leg,NGWA,ú:kú
+17,Toe,NGWA,ìkpísìnu:kù
+18,Penis,NGWA,útù
+19,Vagina,NGWA,ɔ́tù
+20,Liver,NGWA,ìméʤì
+21,Elbow,NGWA,ákpùáka
+22,Shoulder,NGWA,àbáǹgù
+23,Urine,NGWA,mámiri
+24,Faeces,NGWA,sí
+25,One,NGWA,ó:tù
+26,Two,NGWA,àbúɔ́
+27,Three,NGWA,à:tɔ́
+28,Four,NGWA,à:nɔ́
+29,Five,NGWA,Ìsé
+30,Six,NGWA,ìʃí
+31,Seven,NGWA,à:sá
+32,Eight,NGWA,asátɔ
+33,Nine,NGWA,Ìtólu
+34,Ten,NGWA,Ìrí
+35,Fifteen,NGWA,irínì:sé
+36,Nineteen,NGWA,ìrí nì tòlu
+37,Twenty,NGWA,irí à:búɔ́ or ógu
+38,Twenty-five,NGWA,ìrí à:búɔ̀ nísé
+39,Thirty,NGWA,ìrí àtɔ́
+40,Thirty-five,NGWA,ìríà:tɔ̀ nìsé
+41,Forty,NGWA,ìríà:ná
+42,Forty-five,NGWA,ìríànánì:sé
+43,Fifty,NGWA,ìrínì:sé
+44,Fifty-five,NGWA,ìrí:sènì:sé
+45,Hundred,NGWA,úkú ìrì
+46,Two-hundred,NGWA,ìrí ìrí nàbúɔ́
+47,Three-hundred,NGWA,ìrí ìrí nátɔ́
+48,Four-hundred,NGWA,ìrí ìrínàná
+49,Five-hundred,NGWA,ìrí ìríní:sé
+50,One-thousand,NGWA,ótùkpúkú
+51,Sleep,NGWA,ɔ́rã́
+52,Sleeping,NGWA,íɔrã
+53,Eat,NGWA,rí:
+54,Eating,NGWA,írihé
+55,Stand,NGWA,kùzóró
+56,Standing,NGWA,íkùzɔ̀:tɔ́
+57,Sit,NGWA,kpó:rùó
+58,Sitting,NGWA,íkpòrúɔ̀dɔ̀
+59,Go,NGWA,gǎ: or ʤě:
+60,Come,NGWA,bìá
+61,Walk,NGWA,íʤìʤè
+62,Walking,NGWA,ígawiʤè
+63,Jump,NGWA,ulé
+64,Jumping,NGWA,ímùkwàtà
+65,Climb,NGWA,nùélu
+66,Climbing,NGWA,íjũelu
+67,Follow,NGWA,sòrú or dòrú
+68,Shout,NGWA,úkpú
+69,Love,NGWA,íhúnà:jã́
+70,Own,NGWA,kém
+71,Break,NGWA,wǎ
+72,Broke,NGWA,ɔ̀wúwá
+73,Hate,NGWA,áhununà:jã́
+74,Run,NGWA,ɔ́sɔ́
+75,Running,NGWA,ébɔsɔ
+76,Cook,NGWA,sìé
+77,Cooking,NGWA,ísie
+78,Burn,NGWA,rě:
+79,Fall,NGWA,dá:
+80,Dance,NGWA,ébankwà
+81,Sing,NGWA,ígu:ri
+82,Laugh,NGWA,íʧìɔ́ʧì
+83,Cry,NGWA,ákwá
+84,Sell,NGWA,ré:
+85,Buy,NGWA,zùó
+86,Cut,NGWA,gbúbè:
+87,To drink,NGWA,írùhé
+88,To want,NGWA,íʧɔhe
+89,Kneel,NGWA,bìsá
+90,Water,NGWA,míri
+91,Rain,NGWA,míriodùdù
+92,Thunder,NGWA,ébe elùgwe
+93,River,NGWA,íjí:kú
+94,Stream,NGWA,íjìntà
+95,Sun,NGWA,áwṹ
+96,Moon,NGWA,ɔ́wã́
+97,Star,NGWA,kpákpáǹdù
+98,Plant,NGWA,hákókó
+99,Cold,NGWA,ójí
+100,Heat,NGWA,òkpòwúɔ́kú
+101,Bush,NGWA,ɔ́híá
+102,Forest,NGWA,íkíɔ́hìà
+103,Mud,NGWA,áʤɔ́:ʧá
+104,Fruit,NGWA,íkpúrusisi
+105,Fire,NGWA,ɔ́kú
+106,Smoke,NGWA,ámùrɔ́:kú
+107,I,NGWA,mú
+108,You,NGWA,gí
+109,We,NGWA,ã́jì
+110,Us,NGWA,ǹwá:ji
+111,They,NGWA,hã́
+112,He,NGWA,já
+113,She,NGWA,já
+114,Many,NGWA,ɔ́tútú
+115,Small,NGWA,ńtàkírí
+116,Big,NGWA,íhĩne
+117,Fat,NGWA,ibù
+118,Thin,NGWA,áhíríhà
+119,Food,NGWA,ĩ́rĩ́ or ńlí
+120,Boy,NGWA,ńwɔ́wóke
+121,Girl,NGWA,ńwɔ́wàjĩ̀
+122,Man,NGWA,ńwóke
+123,Woman,NGWA,ńwá:jĩ̀̀
+1,Head,IKA,ísí
+2,Eye,IKA,ẽjã́
+3,Ear,IKA,ntí
+4,Nose,IKA,ímí
+5,Mouth,IKA,ɔ́nu
+6,Teeth,IKA,éze
+7,Tongue,IKA,í:ré
+8,Lip,IKA,ùgbá ɔ́nu
+9,Neck,IKA,ó:lú
+10,Hand,IKA,é:ká
+11,Finger,IKA,ǹkpísì é:ká
+12,Chest,IKA,óbì
+13,Breast,IKA,érá
+14,Stomach,IKA,é:fó
+15,Lap,IKA,ɔ̀rú úkú
+16,Leg,IKA,úkú
+17,Toe,IKA,àʧú úkú
+20,Liver,IKA,ímèʤì
+21,Elbow,IKA,ńkpù éká
+22,Shoulder,IKA,éká ńkù
+23,Urine,IKA,nã́mì
+24,Faeces,IKA,ǹsí
+25,One,IKA,ɔ́hù
+26,Two,IKA,èbúɔ́
+27,Three,IKA,ètɔ́
+28,Four,IKA,ènɔ́
+29,Five,IKA,ìsé
+30,Six,IKA,ìʃí
+31,Seven,IKA,èsá
+32,Eight,IKA,esátɔ
+33,Nine,IKA,ìténe
+34,Ten,IKA,ìrí
+35,Fifteen,IKA,ìrí le ìsé
+36,Nineteen,IKA,ìrí le ìténe
+37,Twenty,IKA,ógù
+38,Twenty-five,IKA,ìsé kwásí ógù
+39,Thirty,IKA,ìrí kwásí ógù
+40,Thirty-five,IKA,ìrí le ìsé kwásí ógù
+41,Forty,IKA,ógùnã
+42,Forty-five,IKA,ìsé kwásí ógùnã
+43,Fifty,IKA,ìrí kwásí ógùnã
+44,Fifty-five,IKA,ìrí le ìsé kwásí ógùnã
+45,Hundred,IKA,ógù ìsé
+46,Two-hundred,IKA,ógù ìrí
+47,Three-hundred,IKA,ógù ìsé kwásí ógù ìrí
+48,Four-hundred,IKA,nṹ
+49,Five-hundred,IKA,ógù ìsé kwásí nṹ
+51,Sleep,IKA,úrá
+52,Sleeping,IKA,íra úrá
+53,Eat,IKA,rí:
+54,Eating,IKA,irì iheɔ́riri
+55,Stand,IKA,túrú
+56,Standing,IKA,ítúrú ɔ́tɔ
+57,Sit,IKA,dínɔ́
+58,Sitting,IKA,ídínɔ dú
+59,Go,IKA,ʤɛ̀má
+60,Come,IKA,bìá
+61,Walk,IKA,ʤè iʤè
+62,Walking,IKA,íʤè iʤè
+63,Jump,IKA,tùsé élu
+64,Jumping,IKA,itùsé élu
+65,Climb,IKA,òjíri
+66,Climbing,IKA,òjíri élu
+67,Follow,IKA,sòmé:
+68,Shout,IKA,óró
+69,Love,IKA,íhũ̀né:já
+70,Own,IKA,nwó
+71,Break,IKA,kúsì
+72,Broke,IKA,tíwá
+73,Hate,IKA,ɔ́súonì
+74,Run,IKA,gbámà ɔ́sɔ́
+75,Running,IKA,ígbámà ɔ́sɔ́
+76,Cook,IKA,ʃǐ:
+77,Cooking,IKA,íʃǐ:me íhe
+78,Burn,IKA,dù ɔ́kũ̀
+79,Fall,IKA,dâ:
+80,Dance,IKA,té égú
+81,Sing,IKA,íbú ébù
+82,Laugh,IKA,émù
+83,Cry,IKA,ékúà
+84,Sell,IKA,ríe
+85,Buy,IKA,górí
+86,Cut,IKA,bé:
+87,To drink,IKA,rà:
+88,To want,IKA,ʧɔ́ íhe
+89,Kneel,IKA,sékpù
+90,Water,IKA,ńmíri
+91,Rain,IKA,ńmíri ózúzò
+92,Thunder,IKA,ákpárá
+93,River,IKA,óhímíri
+94,Stream,IKA,íji
+95,Sun,IKA,ã́wũ
+96,Moon,IKA,író
+97,Star,IKA,ókɔ́kìse
+98,Plant,IKA,ósísí
+99,Cold,IKA,òjí
+100,Heat,IKA,úwówɔ́
+101,Bush,IKA,ɔ́fíá
+102,Forest,IKA,egbókɔ́
+103,Mud,IKA,ùrùa
+104,Fruit,IKA,ákpúrú ósísí
+105,Fire,IKA,ɔ́kṹ
+106,Smoke,IKA,èwúrũ
+107,I,IKA,nmé
+108,You,IKA,ú
+109,We,IKA,ɛ̃̀jí
+110,Us,IKA,ɛ̃̀jí
+111,They,IKA,wé:
+112,He,IKA,ǹwá okẽji
+113,She,IKA,ǹwá okpoho
+114,Many,IKA,ɔ́bú odà
+115,Small,IKA,ékéré
+116,Big,IKA,ohí ígbe
+117,Fat,IKA,ohí àkpà
+118,Thin,IKA,ńgbárò
+119,Food,IKA,íhé ɔ́riri
+120,Boy,IKA,ǹwàtà okẽji
+121,Girl,IKA,ǹwàtà okpoho
+122,Man,IKA,okẽji ímí
+123,Woman,IKA,okpoho ímí
+1,Head,AWKA,ísí
+2,Eye,AWKA,ãjã́
+3,Ear,AWKA,ntí
+4,Nose,AWKA,ímí
+5,Mouth,AWKA,ɔ̀nú
+6,Teeth,AWKA,ézè
+7,Tongue,AWKA,írè
+8,Lip,AWKA,ɛ́gbúgbè ɔ̀nú
+9,Neck,AWKA,ó:lú
+10,Hand,AWKA,á :ká
+11,Finger,AWKA,ḿbɔ́
+12,Chest,AWKA,ó:bì
+13,Breast,AWKA,á:rá
+14,Stomach,AWKA,á:fɔ́
+15,Lap,AWKA,ɔgbodobɔ
+16,Leg,AWKA,úkpú
+17,Toe,AWKA,ḿbɔ́ úkpú
+18,Penis,AWKA,amu
+20,Liver,AWKA,nkpuru obi
+21,Elbow,AWKA,ísí áká
+22,Shoulder,AWKA,úbú áká
+23,Urine,AWKA,màmĩrí
+24,Faeces,AWKA,ǹsí
+25,One,AWKA,ó:fù
+26,Two,AWKA,àbúɔ́
+27,Three,AWKA,à:tɔ́
+28,Four,AWKA,ì:nɔ́
+29,Five,AWKA,Ìsé
+30,Six,AWKA,ìsí
+31,Seven,AWKA,ì:sá
+32,Eight,AWKA,isátɔ
+33,Nine,AWKA,Ìtegeté
+34,Ten,AWKA,Ìrí
+35,Fifteen,AWKA,irínì:sé
+36,Nineteen,AWKA,ìrí nì Ìtegeté
+37,Twenty,AWKA,irí à:búɔ́
+38,Twenty-five,AWKA,ìrí à:búɔ̀ nísé
+39,Thirty,AWKA,ìrí àtɔ́
+40,Thirty-five,AWKA,ìríà:tɔ̀ nìsé
+41,Forty,AWKA,ìrí:ná
+42,Forty-five,AWKA,ìrí ìnánì:sé
+43,Fifty,AWKA,ìrínì:sé
+44,Fifty-five,AWKA,ìrí:sènì:sé
+45,Hundred,AWKA,ógù Ìrí
+46,Two-hundred,AWKA,ógù Ìrí àbúɔ́
+47,Three-hundred,AWKA,ógù Ìrí àtɔ́
+48,Four-hundred,AWKA,ógù Ìrí ì:nɔ́
+49,Five-hundred,AWKA,ógù Ìrí Ìsé
+51,Sleep,AWKA,úrã́
+52,Sleeping,AWKA,íra úrã́
+53,Eat,AWKA,rí
+54,Eating,AWKA,rí rĩ́́
+55,Stand,AWKA,kúɔ́tɔ́
+56,Standing,AWKA,íkúɔ́tɔ́
+57,Sit,AWKA,sũɔ̀dú
+58,Sitting,AWKA,ísũɔ̀dú
+59,Go,AWKA,ʤέbέ
+60,Come,AWKA,bìá
+61,Walk,AWKA,ʤìʤè
+62,Walking,AWKA,íʤìʤè
+63,Jump,AWKA,wú élu
+64,Jumping,AWKA,íwú élu
+65,Climb,AWKA,ĩ́jĩ
+66,Climbing,AWKA,ojĩ́jĩ́
+67,Follow,AWKA,sòró
+68,Shout,AWKA,juʤá
+69,Love,AWKA,ífunã́já
+70,Own,AWKA,kέm
+71,Break,AWKA,gbàʤíe
+72,Broke,AWKA,ígbàʤíe
+73,Hate,AWKA,ásí
+74,Run,AWKA,ɔ́sɔ́
+75,Running,AWKA,íba ɔ́sɔ́
+76,Cook,AWKA,sí
+77,Cooking,AWKA,ísí
+78,Burn,AWKA,gbɔ̀:kú
+79,Fall,AWKA,dáràda
+80,Dance,AWKA,gbàégbú
+81,Sing,AWKA,gúégù
+82,Laugh,AWKA,íʧi ɔ̀ʧí
+83,Cry,AWKA,ákpá
+84,Sell,AWKA,ré:
+85,Buy,AWKA,zú:
+86,Cut,AWKA,íbúbu
+87,To drink,AWKA,nwó:
+88,To want,AWKA,ʧɔ́:
+89,Kneel,AWKA,sépúrù
+90,Water,AWKA,mmírí
+91,Rain,AWKA,mmírí ózúzò
+92,Thunder,AWKA,égbé elígwè
+93,River,AWKA,ósímírí
