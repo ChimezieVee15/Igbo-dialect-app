@@ -1,1 +1,1 @@
-# Igbo-dialect-app
+# Igbo-dialect-project
